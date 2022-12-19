@@ -1,0 +1,8 @@
+// {
+//     storeName:{
+//         unique:true
+//     },
+//     accessToken:{
+
+//     }
+// }
